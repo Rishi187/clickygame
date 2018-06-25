@@ -2,7 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Rishi187.github.io/clickygame",
+  "homepage": "https://Rishi187.github.io/clickygame",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
